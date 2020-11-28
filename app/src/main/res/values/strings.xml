@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitCRUDKotlin</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="desc">Desc</string>
+    <string name="save">save</string>
+    <string name="id">id</string>
+</resources>
